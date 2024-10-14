@@ -1,5 +1,7 @@
-Health Management System
+Health Management System健康管理系统
+
 Overview
+
 The Health Management System is a web-based application designed to help users monitor and manage their health data effectively. It includes features for user management, health data tracking, personalized health plan creation, and notification services. The system can integrate with third-party platforms and wearable devices to sync and analyze health data.
 
 Features
